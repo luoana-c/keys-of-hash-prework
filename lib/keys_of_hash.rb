@@ -14,6 +14,4 @@ class Hash
     end
     key_array
   end
-
-
 end
